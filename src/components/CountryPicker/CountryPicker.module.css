@@ -1,0 +1,12 @@
+.container{
+    margin:50px 0;
+}
+
+.label{
+    font-weight: bolder;
+    text-align: center;
+}
+.formControl{
+    width:90%;
+    margin-bottom: 30px !important;
+}
